@@ -1,0 +1,20 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "Playground/sandbox environment to test out NodeJS code, logic, mock servers, etc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "playground"
+  ],
+  "author": "Allie Southerland",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.0.1",
+    "express": "^4.17.1",
+    "nconf": "^0.10.0"
+  }
+}
